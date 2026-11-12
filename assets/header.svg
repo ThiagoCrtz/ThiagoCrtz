@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Thiago Cortez — código em movimento">
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#fff" opacity=".12"/></pattern></defs>
+<rect width="1000" height="280" fill="#111"/><rect width="1000" height="280" fill="url(#dots)"/>
+<path d="M32 28H968" stroke="#444"/><text x="32" y="56" fill="#aaa" font-family="monospace" font-size="11" letter-spacing="2">DESENVOLVIMENTO WEB · ALGORITMOS · AUTOMAÇÃO</text>
+<text x="28" y="151" fill="#fff" font-family="Arial, sans-serif" font-size="84" font-weight="700" letter-spacing="-6">THIAGO <tspan fill="#e32320">CORTEZ.</tspan></text>
+<text x="34" y="197" fill="#fff" font-family="monospace" font-size="15" letter-spacing="4">CÓDIGO EM MOVIMENTO</text>
+<text x="34" y="246" fill="#aaa" font-family="Arial, sans-serif" font-size="13">Estudante de ADS na Fatec Sorocaba · Votorantim, SP</text>
+<path d="M830 235h130m-32-32 32 32-32 32" stroke="#e32320" stroke-width="4" fill="none"/>
+</svg>
