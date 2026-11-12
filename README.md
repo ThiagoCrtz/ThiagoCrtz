@@ -31,10 +31,10 @@ Transformo o que estudo em projetos. Exploro interfaces web, estruturas de dados
 
 ## Código em movimento
 
-Atividade pública recente no GitHub.
+Calendário público de contribuições, registrado em **12/11/2026**.
 
 <a href="https://github.com/ThiagoCrtz?tab=overview">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoCrtz&amp;bg_color=111111&amp;color=ffffff&amp;title_color=e32320&amp;line=e32320&amp;point=ffffff&amp;area_color=e32320&amp;area=true&amp;hide_border=true&amp;custom_title=Atividade%20de%20Thiago%20Cortez&amp;radius=0" width="100%" alt="Gráfico da atividade pública recente de Thiago Cortez no GitHub, em preto, branco e vermelho" />
+  <img src="./assets/contributions.svg" width="100%" alt="Calendário público de contribuições de Thiago Cortez, capturado em 12/11/2026, em preto, branco e vermelho" />
 </a>
 
 ## Formação
