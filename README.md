@@ -29,14 +29,6 @@ Transformo o que estudo em projetos. Exploro interfaces web, estruturas de dados
 | **O-Brechó** | Gestão de doações, triagem, peças, clientes e vendas da ANG. | [Código](https://github.com/ThiagoCrtz/o-brecho) |
 | **Portfólio** | Experiência em preto, branco e vermelho com interações de ponteiro e clique. | [Código](https://github.com/ThiagoCrtz/portfolio) · [Site](https://thiago-cortez-galeria.vercel.app/) |
 
-## Código em movimento
-
-Calendário público de contribuições, registrado em **12/11/2026**.
-
-<a href="https://github.com/ThiagoCrtz?tab=overview">
-  <img src="./assets/contributions.svg" width="100%" alt="Calendário público de contribuições de Thiago Cortez, capturado em 12/11/2026, em preto, branco e vermelho" />
-</a>
-
 ## Formação
 
 - **Análise e Desenvolvimento de Sistemas** — Fatec Sorocaba, 2026–2027 (previsão).
